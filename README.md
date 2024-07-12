@@ -3,9 +3,13 @@
 ### 👋: About Me :
 - 🏫 Rising Senior at Gordon College (Data Science and Computer Science double major with a minor in Mathematics)
 
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luke-W-Hart&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp;
+
+---
 
 ### 🤝 Connect with me
 <div id="badges" align="center">
