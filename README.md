@@ -1,7 +1,8 @@
 ## Hi there, I'm Luke 👋
 
-### 👋: About Me :
-- 🏫 Rising Senior at Gordon College (Data Science and Computer Science double major with a minor in Mathematics)
+### 🪩: About Me :
+- 🏫 Rising Senior at Gordon College (Data and Computer Science double major with a minor in Mathematics)
+- 💻 Currently expanding my data science prowess on <a href="https://www.datacamp.com/portfolio/Lukehart">DataCamp</a>.
 
 ---
 
@@ -12,7 +13,7 @@
 ---
 
 ### 🤝 Connect with me
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=lukewhart25@gmail.com&body=">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
