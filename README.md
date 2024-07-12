@@ -4,6 +4,15 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luke-W-Hart&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp;
 
+### 🤝 Connect with me
+<div id="badges" align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=lukewhart25@gmail.com&body=">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luke-w-hart/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **Luke-W-Hart/Luke-W-Hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
