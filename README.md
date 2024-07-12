@@ -2,7 +2,7 @@
 
 ### 🪩: About Me :
 - 🏫 Rising Senior at Gordon College (Data and Computer Science double major with a minor in Mathematics)
-- 💻 Currently expanding my data science prowess on <a href="https://www.datacamp.com/portfolio/Lukehart">DataCamp</a>.
+- 💻 Currently expanding my data science prowess on <a href="https://www.datacamp.com/portfolio/Luke-Hart">DataCamp</a>.
 
 ---
 
